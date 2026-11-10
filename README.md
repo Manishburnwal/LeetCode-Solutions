@@ -46,3 +46,15 @@ Every problem is an opportunity to learn something new.
 ---
 
 *This repository is continuously updated as I solve more problems.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
+<!---LeetCode Topics End-->
