@@ -57,4 +57,12 @@ Every problem is an opportunity to learn something new.
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
+## Math
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
