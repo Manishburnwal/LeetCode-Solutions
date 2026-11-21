@@ -52,6 +52,7 @@ Every problem is an opportunity to learn something new.
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
@@ -80,4 +81,12 @@ Every problem is an opportunity to learn something new.
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
