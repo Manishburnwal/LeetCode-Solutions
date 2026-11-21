@@ -53,6 +53,7 @@ Every problem is an opportunity to learn something new.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
@@ -68,6 +69,7 @@ Every problem is an opportunity to learn something new.
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
 |  |
@@ -85,6 +87,7 @@ Every problem is an opportunity to learn something new.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Quicksort
 |  |
 | ------- |
