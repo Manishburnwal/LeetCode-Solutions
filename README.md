@@ -121,4 +121,8 @@ Every problem is an opportunity to learn something new.
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
+## String
+|  |
+| ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
