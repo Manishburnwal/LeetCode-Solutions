@@ -52,6 +52,7 @@ Every problem is an opportunity to learn something new.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -92,4 +93,12 @@ Every problem is an opportunity to learn something new.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
