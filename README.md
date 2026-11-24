@@ -55,6 +55,7 @@ Every problem is an opportunity to learn something new.
 | [0004-median-of-two-sorted-arrays](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0139-word-break](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -65,6 +66,7 @@ Every problem is an opportunity to learn something new.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Math
@@ -83,6 +85,7 @@ Every problem is an opportunity to learn something new.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
@@ -131,6 +134,7 @@ Every problem is an opportunity to learn something new.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Enumeration
 |  |
@@ -144,12 +148,18 @@ Every problem is an opportunity to learn something new.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Manishburnwal/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
